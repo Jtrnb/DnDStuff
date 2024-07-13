@@ -8,9 +8,9 @@ Slots:
 
 | Class Name | Dimensions      |
 | ---------- | --------------- |
-| Dinghy     | 50ft x 50ft     |
-| Fighter    | 100ft x 100ft   |
-| Yacht      | 250ft x 250ft   |
+| Dinghy     | 25ft x 25ft     |
+| Fighter    | 50ft x 50ft     |
+| Yacht      | 150ft x 150ft   |
 | Transport  | 500ft x 500ft   |
 | Corvette   | 800ft x 800ft   |
 | Frigate    | 1200ft x 1200ft |
