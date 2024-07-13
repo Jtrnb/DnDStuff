@@ -15,6 +15,10 @@ Piloting Styles
 - way you operate a ship
 - can be feats (take with a normal feat)
 
+### Ship Hitpoints:
+##### Calculating Hull Points:
+- 
+
 
 ### Ship Size Class:
 
