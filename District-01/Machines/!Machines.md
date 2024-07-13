@@ -18,5 +18,5 @@ Slots:
 | Bruiser    | 1600ft x 1600ft |           |           |
 | Destroyer  | 2100ft x 2100ft |           |           |
 | Capital    | 3600ft x 3600ft |           |           |
-| Carrier    | 4500ft x 4500ft |           |           |
+| Carrier    | 4500ft x 4500ft | 30-55     | 1 - 1200  |
 | Behemoth   | 5500ft x 5500ft |           |           |
