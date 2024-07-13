@@ -19,9 +19,9 @@ Piloting Styles
 | Corvette   | 350ft x 350ft   | 4 -10     | 1 - 25    |
 | Transport  | 600ft x 600ft   | 5 - 20    | 1 - 80    |
 | Frigate    | 900ft x 900ft   | 7 - 14    | 1 - 30    |
-| Cruiser    | 1200ft x 1200ft | 7 - 16    | 1 - 50    |
-| Bruiser    | 1600ft x 1600ft | 9 - 20    | 1 - 120   |
-| Destroyer  | 2100ft x 2100ft | 12- 25    | 1 - 200   |
-| Capital    | 3600ft x 3600ft | 20 - 30   |           |
+| Cruiser    | 1200ft x 1200ft | 7 - 16    | 1 - 80    |
+| Bruiser    | 1600ft x 1600ft | 9 - 20    | 1 - 200   |
+| Destroyer  | 2100ft x 2100ft | 12- 25    | 1 - 350   |
+| Capital    | 3600ft x 3600ft | 20 - 30   | 1 - 600   |
 | Carrier    | 4500ft x 4500ft | 30 - 55   | 1 - 1200  |
 | Behemoth   | 5500ft x 5500ft | 50 - 100  | 1 - 1400  |
