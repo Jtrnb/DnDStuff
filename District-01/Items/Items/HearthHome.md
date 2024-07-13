@@ -1,0 +1,1 @@
+Watch-like interface that allows access and control to most of [[HEARTH]] technology. Acts similar to that of a Pip-boy but does not have its own inventory.

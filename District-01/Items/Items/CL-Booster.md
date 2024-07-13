@@ -1,0 +1,1 @@
+Removes 1 Overheat Point from each cybernetic and prevents the next roll of 1 Overheat Die

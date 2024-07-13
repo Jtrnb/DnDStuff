@@ -1,0 +1,1 @@
+Increases your maximum Strain by 4 for 5 hours. 
