@@ -1,7 +1,13 @@
 Based on Frames with slots,
-Slots:
+External Slots:
 - Thruster
-- Weapon (Small/ Large)
+- Weapon (Small/ Large/ Colossal)
+- Utility  (Tools, tractor beam, shields)
+- Armor
+Internal Slots:
+- Utility
+- Power
+- Shields
 
 Piloting Styles
 - road rage
