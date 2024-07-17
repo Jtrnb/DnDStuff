@@ -18,6 +18,12 @@ Piloting Styles
 ### Ship Hitpoints:
 ##### Calculating Hull Points (HP):
 - Each ship has a base HP depending on its size class.
+- Upgrades can be made to the HP of ships but the primary way to improve the durability of ships is with armor.
+
+### Ship Stats:
+
+##### Maneuverability: 
+- Maneuverability is a ships ability to navigate terrain and avoid obstacles. 
 
 
 ### Ship Size Class:
